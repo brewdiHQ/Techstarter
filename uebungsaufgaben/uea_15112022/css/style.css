@@ -8,12 +8,16 @@
 h2 {
 
     font-size: 34px;
+    color: white;
+    
 }
 
 h4 {
 
     font-size: 24px;
+    /* color: #5F9DF7; */
 }
+
 
 .container{
 
@@ -44,10 +48,10 @@ h4 {
     display: flex;
 }
 
-.nav .navbar_footer {
+/* .nav .navbar_footer {
 
     display: flex;
-}
+} */
 
 .nav .navbar li {
 
@@ -55,11 +59,11 @@ h4 {
     font-size: 24px;
 }
 
-.nav .navbar_footer li {
+/* .nav .navbar_footer li {
 
     list-style: none;
     font-size: 18px;
-}
+} */
 
 .nav .navbar li a {
 
@@ -68,17 +72,22 @@ h4 {
     padding: 20px;
 }
 
-.nav .navbar_footer li a {
+/* .nav .navbar_footer li a {
 
     color: #FF731D;
     text-decoration: none;
     padding: 20px;
-}
+} */
+
+
+
+
 
 .cards {
 
     display: flex;
     margin-top:  15%;
+
 }
 
 .cards .card {
