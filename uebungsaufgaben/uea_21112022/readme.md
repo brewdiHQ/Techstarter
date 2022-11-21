@@ -63,7 +63,8 @@ Manuel Fischer | 21. 11. 2022
     <body>
 
     </body>
-</html>```
+</html>
+```
 
 6.  Entwickle eine Funktion, um den Inhalt einer Bestellliste auszugeben.
     Liste: Kapern, Senf, Butter, Eier, Hackfleisch, Kartoffeln, Zwiebeln
