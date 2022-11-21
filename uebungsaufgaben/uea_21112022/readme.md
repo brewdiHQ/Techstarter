@@ -2,7 +2,10 @@
 Manuel Fischer | 21. 11. 2022
 
 1.  Wozu dienen in JavaScript die Schlüsselworte let, var und const?
->! test
+<details>
+<summary>Antwort</summary>
+das ist eine antwort
+</details>
 2.  Worin unterscheiden sich die Schlüsselworte let, var und const?
 3.  Was bedeutet dynamisch typisiert?
 4.  Welche Datentypen sind in JavaScript vorhanden?
