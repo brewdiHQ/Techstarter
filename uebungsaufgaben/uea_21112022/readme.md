@@ -22,8 +22,7 @@ const:  Die const-Deklaration erstellt blockbezogene Konstanten, ähnlich wie Va
 5.  Betrachte nachfolgenden Quellcode und beschreibe sein Ergebnis
 
 <details>
-<summary>
-<!DOCTYPE html>
+<summary><!DOCTYPE html>
 <html>
     <head>
         <script>
@@ -35,8 +34,7 @@ const:  Die const-Deklaration erstellt blockbezogene Konstanten, ähnlich wie Va
     <body>
 
     </body>
-</html>
-</summary>
+</html></summary>
 </details>
 
 6.  Entwickle eine Funktion, um den Inhalt einer Bestellliste auszugeben.
