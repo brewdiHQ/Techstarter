@@ -19,6 +19,11 @@ Manuel Fischer | 21. 11. 2022
 </details>
 
 2.  Worin unterscheiden sich die Schlüsselworte let, var und const?
+<details>
+<summary>Antwort</summary>
+> Ich hoffe ich habe diese Frage schon in Antwrt 1 beantwortet!?
+</details>
+
 3.  Was bedeutet dynamisch typisiert?
 4.  Welche Datentypen sind in JavaScript vorhanden?
 5.  Betrachte nachfolgenden Quellcode und beschreibe sein Ergebnis
