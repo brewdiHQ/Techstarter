@@ -9,11 +9,12 @@ Manuel Fischer | 21. 11. 2022
 > sie optional mit einem Wert. 
 > Beispiel: let Vorname = Stephan;
 
-var: Die var-Anweisung deklariert eine funktionsbezogene oder global bezogene Variable und 
-     initialisiert sie optional mit einem Wert.<br> Bespiel: var Nachname = Stephan;</br> 
+> var: Die var-Anweisung deklariert eine funktionsbezogene oder global bezogene Variable 
+> und initialisiert sie optional mit einem Wert. Bespiel: var Nachname = Stephan;
 
-const:  Die const-Deklaration erstellt blockbezogene Konstanten, ähnlich wie Variablen, die 
-        mit dem Schlüsselwort let deklariert werden. Der Wert einer Konstante kann nicht durch Neuzuweisung geändert und nicht erneut deklariert werden
+> const: Die const-Deklaration erstellt blockbezogene Konstanten, ähnlich wie Variablen, 
+>        die mit dem Schlüsselwort let deklariert werden. Der Wert einer Konstante kann 
+>        nicht durch Neuzuweisung geändert und nicht erneut deklariert werden
 
 </details>
 
