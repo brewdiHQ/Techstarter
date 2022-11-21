@@ -35,6 +35,20 @@ Manuel Fischer | 21. 11. 2022
 </details>
 
 4.  Welche Datentypen sind in JavaScript vorhanden?
+<details>
+<summary>Antwort</summary>
+
+> Insgesamt verfügt JavaScript über 6 Datentypen. Diese sind entweder "einfach" oder "primitiv". Es handelt sich hierbei um:
+
+>* Undefined
+>* Null
+>* Boolean (Wahrheitswert, true oder false)
+>* String (eine Zeichenkette)
+>* Symbol (ein spezieller Datentyp zum erstellen von eindeutigen Keys)
+>* Number (eine Zahl, mit oder Nachkommastelle)
+
+</details>
+
 5.  Betrachte nachfolgenden Quellcode und beschreibe sein Ergebnis
 
 <details>
