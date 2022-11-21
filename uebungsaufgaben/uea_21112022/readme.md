@@ -51,8 +51,7 @@ Manuel Fischer | 21. 11. 2022
 
 5.  Betrachte nachfolgenden Quellcode und beschreibe sein Ergebnis
 
-<details>
-<summary><!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
     <head>
         <script>
@@ -64,8 +63,7 @@ Manuel Fischer | 21. 11. 2022
     <body>
 
     </body>
-</html></summary>
-</details>
+</html>```
 
 6.  Entwickle eine Funktion, um den Inhalt einer Bestellliste auszugeben.
     Liste: Kapern, Senf, Butter, Eier, Hackfleisch, Kartoffeln, Zwiebeln
