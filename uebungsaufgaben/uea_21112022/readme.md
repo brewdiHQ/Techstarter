@@ -15,11 +15,14 @@ const:  Die const-Deklaration erstellt blockbezogene Konstanten, ähnlich wie Va
         mit dem Schlüsselwort let deklariert werden. Der Wert einer Konstante kann nicht durch Neuzuweisung geändert und nicht erneut deklariert werden
 
 </details>
+
 2.  Worin unterscheiden sich die Schlüsselworte let, var und const?
 3.  Was bedeutet dynamisch typisiert?
 4.  Welche Datentypen sind in JavaScript vorhanden?
 5.  Betrachte nachfolgenden Quellcode und beschreibe sein Ergebnis
 
+<details>
+<summary>
 <!DOCTYPE html>
 <html>
     <head>
@@ -33,6 +36,8 @@ const:  Die const-Deklaration erstellt blockbezogene Konstanten, ähnlich wie Va
 
     </body>
 </html>
+</summary>
+</details>
 
 6.  Entwickle eine Funktion, um den Inhalt einer Bestellliste auszugeben.
     Liste: Kapern, Senf, Butter, Eier, Hackfleisch, Kartoffeln, Zwiebeln
