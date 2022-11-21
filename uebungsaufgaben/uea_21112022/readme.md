@@ -5,8 +5,8 @@ Manuel Fischer | 21. 11. 2022
 <details>
 <summary>Antwort</summary>
 
-let: Die Let-Deklaration deklariert eine blockbezogene lokale Variable und initialisiert 
-     sie optional mit einem Wert. Beispiel: let Vorname = Stephan;
+> let: Die Let-Deklaration deklariert eine blockbezogene lokale Variable und initialisiert 
+> sie optional mit einem Wert. Beispiel: let Vorname = Stephan;
 
 var: Die var-Anweisung deklariert eine funktionsbezogene oder global bezogene Variable und 
      initialisiert sie optional mit einem Wert. Bespiel: var Nachname = Stephan; 
