@@ -2,6 +2,7 @@
 Manuel Fischer | 21. 11. 2022
 
 1.  Wozu dienen in JavaScript die Schlüsselworte let, var und const?
+>! test
 2.  Worin unterscheiden sich die Schlüsselworte let, var und const?
 3.  Was bedeutet dynamisch typisiert?
 4.  Welche Datentypen sind in JavaScript vorhanden?
@@ -26,8 +27,8 @@ Manuel Fischer | 21. 11. 2022
     Bedingung: Die Funktion darf nur einen Parameter haben 
 7.  Bring Deine Liste in aus Aufgabe 6 mittels JavaScript in alphabetische Reihenfolge      
     beginnend bei A
-8.  [Anspruchsvoller] Gebe das aktuelle Datum und die Uhrzeit aus. Dein Ergebnis sollte folgendem 
-    Format entsprechen: [TT.MM.JJJJ | hh:mm:ss] 
+8.  [Anspruchsvoller] Gebe das aktuelle Datum und die Uhrzeit aus. Dein Ergebnis sollte 
+    folgendem Format entsprechen: [TT.MM.JJJJ | hh:mm:ss] 
 
 9.  [Herausforderung, wirklich] Navigationsmenü auf einer Website
     Problem: Du betreust eine Website bestehend aus den folgenden Seiten: Hauptseite (index.html), Produkt, Über uns, Datenschutz, AGB. Alle Seiten sind in separaten HTML Dateien angelegt. Auf allen Seiten soll sich ein identisches Navigationsmenü befinden, sodass du das Menü nur an einer Stelle pflegen musst, aber es auf allen Seiten angezeigt wird.
