@@ -4,7 +4,16 @@ Manuel Fischer | 21. 11. 2022
 1.  Wozu dienen in JavaScript die Schlüsselworte let, var und const?
 <details>
 <summary>Antwort</summary>
->! das ist eine antwort
+
+let: Die Let-Deklaration deklariert eine blockbezogene lokale Variable und initialisiert 
+     sie optional mit einem Wert. Beispiel: let Vorname = Stephan;
+
+var: Die var-Anweisung deklariert eine funktionsbezogene oder global bezogene Variable und 
+     initialisiert sie optional mit einem Wert. Bespiel: var Nachname = Stephan; 
+
+const:  Die const-Deklaration erstellt blockbezogene Konstanten, ähnlich wie Variablen, die 
+        mit dem Schlüsselwort let deklariert werden. Der Wert einer Konstante kann nicht durch Neuzuweisung geändert und nicht erneut deklariert werden
+
 </details>
 2.  Worin unterscheiden sich die Schlüsselworte let, var und const?
 3.  Was bedeutet dynamisch typisiert?
