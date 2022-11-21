@@ -27,6 +27,13 @@ Manuel Fischer | 21. 11. 2022
 </details>
 
 3.  Was bedeutet dynamisch typisiert?
+<details>
+<summary>Antwort</summary>
+
+> Dynamische Typisierung bezeichnet ein Schema der Typisierung von Programmiersprachen, bei der Typ-Prüfungen vorrangig zur Laufzeit eines Programms stattfinden. Im Gegensatz wird bei der statischen Typisierung die Typ-Prüfung bereits zum Zeitpunkt der Kompilierung durchgeführt. (Quelle: https://de.wikipedia.org/wiki/Dynamische_Typisierung). Besser kann man es nicht erklären!
+
+</details>
+
 4.  Welche Datentypen sind in JavaScript vorhanden?
 5.  Betrachte nachfolgenden Quellcode und beschreibe sein Ergebnis
 
