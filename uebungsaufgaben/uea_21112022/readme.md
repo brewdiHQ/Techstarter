@@ -69,9 +69,7 @@ Manuel Fischer | 21. 11. 2022
 <details>
 <summary>Antwort</summary>
 
-> -- Wir sehen hier eine, in einer Standard html Datei eingebettete, JavaScript Funktion. Die Funktion heißt "addiere". Sie wird mit dem Schlüsselwort function angesprochen und mit der Namensergänzung "addiere" aufgerufen. Die Funktion "addiere" beinhaltet eine Rechenanweisung mit zwei initialisierten Variablen (wert1=0 und wert2=0). Das Ergebnis dieser Rechenanweisung (eine addition), wird abschließend in der Konsole ausgegeben. Das Ergbenis dieser Rechenanweisung ist: 0 (0+0=0) -- 
-
-
+> Wir sehen hier eine, in einer Standard html Datei eingebettete, JavaScript Funktion. Die Funktion heißt "addiere". Sie wird mit dem Schlüsselwort function angesprochen und mit der Namensergänzung "addiere" aufgerufen. Die Funktion "addiere" beinhaltet eine Rechenanweisung mit zwei initialisierten Variablen (wert1=0 und wert2=0). Das Ergebnis dieser Rechenanweisung (eine addition), wird abschließend in der Konsole ausgegeben. Das Ergbenis dieser Rechenanweisung ist: 0 (0+0=0)
 
 </details>
 
