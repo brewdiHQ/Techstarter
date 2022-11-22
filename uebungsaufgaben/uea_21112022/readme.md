@@ -98,9 +98,11 @@ Manuel Fischer | 21. 11. 2022
 <details>
 <summary>Antwort</summary>
 
-    ```const einkaufsliste = ["Kapern", "Senf", "Butter", "Eier", "Hackfleisch", "Kartoffeln", "Zwiebeln"];
+    ```
+    const einkaufsliste = ["Kapern", "Senf", "Butter", "Eier", "Hackfleisch", "Kartoffeln", "Zwiebeln"];
     einkaufsliste.sort();
     console.log(einkaufsliste);
+    
     ```
 </details>
 
