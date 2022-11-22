@@ -24,10 +24,10 @@
 
 // Aufgabe 7
 
-// const einkaufsliste = ["Kapern", "Senf", "Butter", "Eier", "Hackfleisch", "Kartoffeln", "Zwiebeln"];
-// einkaufsliste.sort();
+const einkaufsliste = ["Kapern", "Senf", "Butter", "Eier", "Hackfleisch", "Kartoffeln", "Zwiebeln"];
+einkaufsliste.sort();
 
-// console.log(einkaufsliste)
+console.log(einkaufsliste)
 
 
 // Aufgabe 8

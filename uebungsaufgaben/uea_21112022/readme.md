@@ -91,6 +91,16 @@ Manuel Fischer | 21. 11. 2022
 7.  Bring Deine Liste in aus Aufgabe 6 mittels JavaScript in alphabetische Reihenfolge      
     beginnend bei A
 
+    <details>
+    <summary>Antwort</summary>
+
+    ```
+    const einkaufsliste = ["Kapern", "Senf", "Butter", "Eier", "Hackfleisch", "Kartoffeln", "Zwiebeln"];
+    einkaufsliste.sort();
+    console.log(einkaufsliste);
+    ```
+    </details>
+
 8.  [Anspruchsvoller] Gebe das aktuelle Datum und die Uhrzeit aus. Dein Ergebnis sollte 
     folgendem Format entsprechen: [TT.MM.JJJJ | hh:mm:ss]
 
