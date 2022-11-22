@@ -98,9 +98,16 @@ Manuel Fischer | 21. 11. 2022
     <summary>Antwort</summary>
 
     > Siehe main.js
-    
+
     </details>
 
 9.  [Herausforderung, wirklich] Navigationsmenü auf einer Website
     Problem: Du betreust eine Website bestehend aus den folgenden Seiten: Hauptseite (index.html), Produkt, Über uns, Datenschutz, AGB. Alle Seiten sind in separaten HTML Dateien angelegt. Auf allen Seiten soll sich ein identisches Navigationsmenü befinden, sodass du das Menü nur an einer Stelle pflegen musst, aber es auf allen Seiten angezeigt wird.
     Bedingung: Für die Lösung dürfen nur CSS, HTML und JavaScript genutzt werden 
+
+    <details>
+    <summary>Antwort</summary>
+
+    > Durch das hinzufügen von Klassen in den jeweiligen ul Elementen. Siehe jeweilige .html und in der style.css Datei
+    
+    </details>
