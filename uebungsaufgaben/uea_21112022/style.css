@@ -1,0 +1,17 @@
+
+
+.nav {
+
+color:  red;
+
+}
+
+.nav .navbar li a {
+
+
+list-style-type: disc;
+color: rgb(55, 226, 43);
+font-size: 24px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
