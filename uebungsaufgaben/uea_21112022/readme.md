@@ -100,7 +100,8 @@ Manuel Fischer | 21. 11. 2022
 
     ```const einkaufsliste = ["Kapern", "Senf", "Butter", "Eier", "Hackfleisch", "Kartoffeln", "Zwiebeln"];
     einkaufsliste.sort();
-    console.log(einkaufsliste);```
+    console.log(einkaufsliste);
+    ```
 </details>
 
 8.  [Anspruchsvoller] Gebe das aktuelle Datum und die Uhrzeit aus. Dein Ergebnis sollte 
