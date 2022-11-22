@@ -93,9 +93,12 @@ Manuel Fischer | 21. 11. 2022
 
 8.  [Anspruchsvoller] Gebe das aktuelle Datum und die Uhrzeit aus. Dein Ergebnis sollte 
     folgendem Format entsprechen: [TT.MM.JJJJ | hh:mm:ss]
+
     <details>
     <summary>Antwort</summary>
+
     > Siehe main.js
+    
     </details>
 
 9.  [Herausforderung, wirklich] Navigationsmenü auf einer Website
