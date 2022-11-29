@@ -1,0 +1,43 @@
+{
+  "branches": {
+    "main": {
+      "remoteTrackingBranchID": null,
+      "remote": false,
+      "target": "C1",
+      "id": "main",
+      "type": "branch"
+    },
+    "bugFix": {
+      "remoteTrackingBranchID": null,
+      "remote": false,
+      "target": "C1",
+      "id": "bugFix",
+      "type": "branch"
+    }
+  },
+  "commits": {
+    "C0": {
+      "type": "commit",
+      "parents": [],
+      "author": "Peter Cottle",
+      "createTime": "Tue Nov 29 2022 15:15:54 GMT+0100 (Mitteleuropäische Normalzeit)",
+      "commitMessage": "Schneller Commit. Eff-Zeh!",
+      "id": "C0",
+      "rootCommit": true
+    },
+    "C1": {
+      "type": "commit",
+      "parents": ["C0"],
+      "author": "Peter Cottle",
+      "createTime": "Tue Nov 29 2022 15:15:54 GMT+0100 (Mitteleuropäische Normalzeit)",
+      "commitMessage": "Schneller Commit. Eff-Zeh!",
+      "id": "C1"
+    }
+  },
+  "tags": {},
+  "HEAD": {
+    "id": "HEAD",
+    "target": "bugFix",
+    "type": "general ref"
+  }
+}
