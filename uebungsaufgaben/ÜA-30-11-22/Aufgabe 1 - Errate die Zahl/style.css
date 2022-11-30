@@ -1,0 +1,5 @@
+.container {
+  color: white;
+  background-color: blue; /*blue backround for bugfixing*/
+  background: linear-gradient(225deg, #45a29e, #1f2833);
+}
