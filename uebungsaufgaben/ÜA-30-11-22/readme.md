@@ -14,34 +14,33 @@ Für die Abgabe füge einen / mehrere Link(s) auf dein Github Projekt an
 
 ---
 
-## Aufgabe 1:
+## Aufgabe 1: Errate die Zahl
 
-Errate die Zahl
-Zielsetzung: NutzerInnen sollen eine Zahl zwischen 0 und 100 erraten. Dafür haben sie beliebig viele Versuche, wobei die Anzahl der Versuch erfasst wird.
+Zielsetzung:
+NutzerInnen sollen eine Zahl zwischen 0 und 100 erraten. Dafür haben sie beliebig viele Versuche, wobei die Anzahl der Versuch erfasst wird.
 
 Programmablauf:
 Der/die Nutzer-/in startet einen Durchlauf über einen START-Button.
 Das Programm generiert eine Zufallszahl zwischen 0 und 100
 Der / die Nutzer-/in gibt eine Schätzung ein.
 Das Programm wertet die Eingabe aus, mit folgenden Möglichkeiten
-<br>
 
 - TREFFER: Die Schätzung entspricht der Zufallszahl
-  \*ZU KLEIN: Der geschätzte Wert ist kleiner als die Zufallszahl
+- ZU KLEIN: Der geschätzte Wert ist kleiner als die Zufallszahl
 - ZU GROß: Der geschätzte Wert ist größer als die Zufallszahl
 - UNZULÄSSIG: Der Nutzer hat eine unzulässige Eingabe getätigt
-  <br>
-  Das Programm gibt dem Nutzer Hinweise entsprechend den Möglichkeiten unter 4
-  Sobald der Nutzer das richtige Ergebnis erraten hat, endet das Programm. Die richtige Zahl sowie die benötigten Versuche werden ausgegeben.
-  <br>
-  [ZUSATZ, HERAUSFORDERUNG] Erstelle einen Highscore über die 10 besten Durchläufe in der Form:
+
+Das Programm gibt dem Nutzer Hinweise entsprechend den Möglichkeiten unter 4
+Sobald der Nutzer das richtige Ergebnis erraten hat, endet das Programm. Die richtige Zahl sowie die benötigten
+Versuche werden ausgegeben.
+
+- [ZUSATZ, HERAUSFORDERUNG] Erstelle einen Highscore über die 10 besten Durchläufe in der Form:
   erratene Zahl | benötigte Versuche | Datum der Durchführung | Spielername
 
 ---
 
-## Aufgabe 2:
+## Aufgabe 2: Teilbar oder nicht?
 
-Teilbar oder nicht?
 Zielsetzung: Erstelle ein Programm, dass für beliebigen ganzen Zahlen bestimmt ob diese durch folgende Zahlen teilbar sind: 2; 3; 5; 7; 11; 13;17
 
 Programmablauf:
