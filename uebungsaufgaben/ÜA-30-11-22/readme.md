@@ -41,13 +41,8 @@ Das Programm liest die Benutzereingabe ein und wertet sie aus
 Das Programm liefert ein Ergebnis entsprechend dem folgenden Beispiel:
 
 Eingabe: 35
-2 ❌
-3 ❌
-5 ✅
-7 ✅
-11 ❌
-13 ❌
-17 ❌
+
+![Alt text](/uebungsaufgaben/%C3%9CA-30-11-22/img/Screenshot%202022-11-30%20100424.png)
 
 Aufgabe 3:
 
