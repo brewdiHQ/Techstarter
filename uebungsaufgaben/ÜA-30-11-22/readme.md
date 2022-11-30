@@ -37,6 +37,8 @@ Versuche werden ausgegeben.
 - [ZUSATZ, HERAUSFORDERUNG] Erstelle einen Highscore über die 10 besten Durchläufe in der Form:
   erratene Zahl | benötigte Versuche | Datum der Durchführung | Spielername
 
+> challenge by my self: no guides, no youtube, only official documentation
+
 ---
 
 ## Aufgabe 2: Teilbar oder nicht?
