@@ -12,6 +12,8 @@ Hinweise
 Abgabe
 Für die Abgabe füge einen / mehrere Link(s) auf dein Github Projekt an
 
+---
+
 ## Aufgabe 1:
 
 Errate die Zahl
@@ -31,6 +33,8 @@ Sobald der Nutzer das richtige Ergebnis erraten hat, endet das Programm. Die ric
 [ZUSATZ, HERAUSFORDERUNG] Erstelle einen Highscore über die 10 besten Durchläufe in der Form:
 erratene Zahl | benötigte Versuche | Datum der Durchführung | Spielername
 
+---
+
 ## Aufgabe 2:
 
 Teilbar oder nicht?
@@ -44,6 +48,8 @@ Das Programm liefert ein Ergebnis entsprechend dem folgenden Beispiel:
 Eingabe: 35
 
 ![Alt text](/uebungsaufgaben/%C3%9CA-30-11-22/img/Screenshot%202022-11-30%20100424.png)
+
+---
 
 ## Aufgabe 3:
 
