@@ -54,19 +54,19 @@ Eingabe: 35
 
 ---
 
-## Aufgabe 3:
+## Aufgabe 3: Stoppuhr
 
-Stoppuhr
 Zielsetzung:
 Erstelle eine Stoppuhr, die die Zeit auf hundertstel Sekunden genau misst.
 [Herausforderung] Stelle auch Zwischenergebnisse dar.
 Orientiere dich bei der Erstellung an folgender Abbildung:
 
 Programmablauf
-Beim Aufruf des Programm steht die Uhr auf 00:00:00
-Bei START wird die Zeit sekündlich erhöht
-[HERAUSFORDERUNG] Bei CHECK wird der aktuelle Wert zwischengespeichert
-Bei STOPP wird der Zähler gestoppt und die Uhr verweilt auf der zuvor gezählten Wert
-Bei RESET werden alle Werte zurück auf Null gesetzt
+
+- Beim Aufruf des Programm steht die Uhr auf 00:00:00
+- Bei START wird die Zeit sekündlich erhöht
+- [HERAUSFORDERUNG] Bei CHECK wird der aktuelle Wert zwischengespeichert
+- Bei STOPP wird der Zähler gestoppt und die Uhr verweilt auf der zuvor gezählten Wert
+- Bei RESET werden alle Werte zurück auf Null gesetzt
 
 ![Alt text](/uebungsaufgaben/%C3%9CA-30-11-22/img/Screenshot%202022-11-30%20095700.png)
