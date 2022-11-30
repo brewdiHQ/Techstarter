@@ -64,4 +64,4 @@ Bei START wird die Zeit sekündlich erhöht
 Bei STOPP wird der Zähler gestoppt und die Uhr verweilt auf der zuvor gezählten Wert
 Bei RESET werden alle Werte zurück auf Null gesetzt
 
-![Alt text](../../../../../Library/CloudStorage/OneDrive-Perso%CC%88nlich/Screenshots/Screenshot%202022-11-30%20095700.png)
+![Alt text](/uebungsaufgaben/%C3%9CA-30-11-22/img/Screenshot%202022-11-30%20095700.png)
