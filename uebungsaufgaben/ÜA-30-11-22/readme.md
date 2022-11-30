@@ -24,14 +24,18 @@ Der/die Nutzer-/in startet einen Durchlauf über einen START-Button.
 Das Programm generiert eine Zufallszahl zwischen 0 und 100
 Der / die Nutzer-/in gibt eine Schätzung ein.
 Das Programm wertet die Eingabe aus, mit folgenden Möglichkeiten
-TREFFER: Die Schätzung entspricht der Zufallszahl
-ZU KLEIN: Der geschätzte Wert ist kleiner als die Zufallszahl
-ZU GROß: Der geschätzte Wert ist größer als die Zufallszahl
-UNZULÄSSIG: Der Nutzer hat eine unzulässige Eingabe getätigt
-Das Programm gibt dem Nutzer Hinweise entsprechend den Möglichkeiten unter 4
-Sobald der Nutzer das richtige Ergebnis erraten hat, endet das Programm. Die richtige Zahl sowie die benötigten Versuche werden ausgegeben.
-[ZUSATZ, HERAUSFORDERUNG] Erstelle einen Highscore über die 10 besten Durchläufe in der Form:
-erratene Zahl | benötigte Versuche | Datum der Durchführung | Spielername
+<br>
+
+- TREFFER: Die Schätzung entspricht der Zufallszahl
+  \*ZU KLEIN: Der geschätzte Wert ist kleiner als die Zufallszahl
+- ZU GROß: Der geschätzte Wert ist größer als die Zufallszahl
+- UNZULÄSSIG: Der Nutzer hat eine unzulässige Eingabe getätigt
+  <br>
+  Das Programm gibt dem Nutzer Hinweise entsprechend den Möglichkeiten unter 4
+  Sobald der Nutzer das richtige Ergebnis erraten hat, endet das Programm. Die richtige Zahl sowie die benötigten Versuche werden ausgegeben.
+  <br>
+  [ZUSATZ, HERAUSFORDERUNG] Erstelle einen Highscore über die 10 besten Durchläufe in der Form:
+  erratene Zahl | benötigte Versuche | Datum der Durchführung | Spielername
 
 ---
 
