@@ -25,7 +25,8 @@ body {
   background-color: rgb(108, 108, 181);
   color: white;
   border: 1px solid white;
-  border-radius: 0 25px;
+  /* border-radius: 0 25px; */
+  border-radius: 100px;
   cursor: pointer;
 }
 
