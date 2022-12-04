@@ -11,6 +11,9 @@ html {
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  color: tomato;
-  background-color: burlywood;
+  /* color: tomato; */
+  color: black;
+  /* background-color: burlywood; */
+  /* background: url(./img/cool-background.png); */
+  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
 }
