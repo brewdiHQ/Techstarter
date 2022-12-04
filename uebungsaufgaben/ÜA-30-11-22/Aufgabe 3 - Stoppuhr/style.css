@@ -28,3 +28,13 @@ body {
   border-radius: 0 25px;
   cursor: pointer;
 }
+
+#start {
+  background-color: #1abc9c;
+}
+#stop {
+  background-color: #3498db;
+}
+#reset {
+  background-color: green;
+}
