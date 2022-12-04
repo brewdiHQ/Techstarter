@@ -2,32 +2,35 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" href="style.css" />
-    <title>Errate die Zahl</title>
+    <title>Secret Number!</title>
   </head>
   <body>
     <header>
-      <h1 class="headertop">An welche Zahl denke ich gerade?</h1>
-      <p class="range">Errate die Ganzzahl zwischen 1 und 100</p>
-      <button class="btn repeate">Nochmal</button>
-
-      <main>
-        <section class="leftside">
-          <input type="number" class="guess" />
-          <button class="btn check">Prüfe!</button>
-        </section>
-        <section class="rightside">
-          <p class="label-score">
-            Übrige Versuche: <span class="score">20</span>
-          </p>
-          <p class="label-highscore">
-            Highscore: <span class="highscore">0</span>
-          </p>
-        </section>
-      </main>
+      <h1>Errate die geheime Nummer</h1>
+      <br />
+      <h3>Zwischen 1 und 100</h3>
+      <!-- <button class="btn again">Neustart!</button> -->
     </header>
+    <main>
+      <section class="left">
+        <input type="number" value"0" min="1" max="9" maxlength = "3"
+        class="guess" />
+        <button class="btn check">überprüfen!</button>
+        <button class="btn again">Neustart!</button>
+      </section>
+      <section class="right">
+        <p class="message">Zu hoch oder zu niedrig?</p>
+        <p class="label-score">
+          Übrige Versuche: <span class="score">20</span>
+        </p>
+        <p class="label-highscore">
+          Betster Durchlauf: <span class="highscore">0</span>
+        </p>
+      </section>
+    </main>
     <script src="main.js"></script>
   </body>
 </html>
