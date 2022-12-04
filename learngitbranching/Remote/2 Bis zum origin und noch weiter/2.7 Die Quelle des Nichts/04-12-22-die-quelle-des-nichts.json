@@ -1,0 +1,86 @@
+{
+  "branches": {
+    "main": {
+      "remoteTrackingBranchID": "o/main",
+      "remote": false,
+      "target": "C1",
+      "id": "main",
+      "type": "branch"
+    },
+    "o/main": {
+      "remoteTrackingBranchID": null,
+      "remote": false,
+      "target": "C1",
+      "id": "o/main",
+      "type": "branch"
+    },
+    "bar": {
+      "remoteTrackingBranchID": null,
+      "remote": false,
+      "target": "C1",
+      "id": "bar",
+      "type": "branch"
+    }
+  },
+  "commits": {
+    "C0": {
+      "type": "commit",
+      "parents": [],
+      "author": "Peter Cottle",
+      "createTime": "Sun Dec 04 2022 16:55:38 GMT+0100 (Mitteleuropäische Normalzeit)",
+      "commitMessage": "Schneller Commit. Eff-Zeh!",
+      "id": "C0",
+      "rootCommit": true
+    },
+    "C1": {
+      "type": "commit",
+      "parents": ["C0"],
+      "author": "Peter Cottle",
+      "createTime": "Sun Dec 04 2022 16:55:38 GMT+0100 (Mitteleuropäische Normalzeit)",
+      "commitMessage": "Schneller Commit. Eff-Zeh!",
+      "id": "C1"
+    }
+  },
+  "tags": {},
+  "HEAD": {
+    "target": "main",
+    "id": "HEAD",
+    "type": "general ref"
+  },
+  "originTree": {
+    "branches": {
+      "main": {
+        "remoteTrackingBranchID": null,
+        "remote": false,
+        "target": "C1",
+        "id": "main",
+        "type": "branch"
+      }
+    },
+    "commits": {
+      "C0": {
+        "type": "commit",
+        "parents": [],
+        "author": "Peter Cottle",
+        "createTime": "Sun Dec 04 2022 16:55:38 GMT+0100 (Mitteleuropäische Normalzeit)",
+        "commitMessage": "Schneller Commit. Eff-Zeh!",
+        "id": "C0",
+        "rootCommit": true
+      },
+      "C1": {
+        "type": "commit",
+        "parents": ["C0"],
+        "author": "Peter Cottle",
+        "createTime": "Sun Dec 04 2022 16:55:38 GMT+0100 (Mitteleuropäische Normalzeit)",
+        "commitMessage": "Schneller Commit. Eff-Zeh!",
+        "id": "C1"
+      }
+    },
+    "tags": {},
+    "HEAD": {
+      "target": "main",
+      "id": "HEAD",
+      "type": "general ref"
+    }
+  }
+}
