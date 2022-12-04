@@ -1,9 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap");
+
 body {
-  background-color: tomato;
+  /* font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; */
+  font-family: "Zen Dots", cursive;
+  background-image: linear-gradient(to top, #88d3ce 0%, #6e45e2 100%);
   display: flex;
   justify-content: center;
   height: 100vh;
 }
 
-.digits {
+.digit {
+  font-size: 120px;
+  /* font-weight: 200; */
+}
+
+.txt {
+  font-size: 35px;
+}
+
+.btn {
+  padding: 10px 30px;
+  font-size: 18px;
+  margin: 0px 10px;
+  background-color: rgb(108, 108, 181);
+  color: white;
+  border: 1px solid white;
+  border-radius: 0 25px;
+  cursor: pointer;
 }
