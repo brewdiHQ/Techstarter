@@ -30,6 +30,19 @@ body {
   cursor: pointer;
 }
 
+.btn-check {
+  padding: 10px 30px;
+  font-size: 18px;
+  width: 370px;
+  margin: 0px 10px;
+  background-color: #6e48e1;
+  color: white;
+  border: 1px solid white;
+  /* border-radius: 0 25px; */
+  border-radius: 100px;
+  cursor: pointer;
+}
+
 #start {
   background-color: #1abc9c;
 }
@@ -37,5 +50,5 @@ body {
   background-color: #3498db;
 }
 #reset {
-  background-color: green;
+  background-color: tomato;
 }
