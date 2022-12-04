@@ -1,0 +1,126 @@
+{
+  "branches": {
+    "main": {
+      "remoteTrackingBranchID": "o/main",
+      "remote": false,
+      "target": "C1",
+      "id": "main",
+      "type": "branch"
+    },
+    "o/main": {
+      "remoteTrackingBranchID": null,
+      "remote": false,
+      "target": "C3'",
+      "id": "o/main",
+      "type": "branch"
+    },
+    "side": {
+      "remoteTrackingBranchID": "o/main",
+      "remote": false,
+      "target": "C3'",
+      "id": "side",
+      "type": "branch"
+    }
+  },
+  "commits": {
+    "C0": {
+      "type": "commit",
+      "parents": [],
+      "author": "Peter Cottle",
+      "createTime": "Sun Dec 04 2022 16:36:50 GMT+0100 (Mitteleuropäische Normalzeit)",
+      "commitMessage": "Schneller Commit. Eff-Zeh!",
+      "id": "C0",
+      "rootCommit": true
+    },
+    "C1": {
+      "type": "commit",
+      "parents": ["C0"],
+      "author": "Peter Cottle",
+      "createTime": "Sun Dec 04 2022 16:36:50 GMT+0100 (Mitteleuropäische Normalzeit)",
+      "commitMessage": "Schneller Commit. Eff-Zeh!",
+      "id": "C1"
+    },
+    "C3": {
+      "type": "commit",
+      "parents": ["C1"],
+      "author": "Peter Cottle",
+      "createTime": "Sun Dec 04 2022 16:40:12 GMT+0100 (Mitteleuropäische Normalzeit)",
+      "commitMessage": "Schneller Commit. Eff-Zeh!",
+      "id": "C3"
+    },
+    "C2": {
+      "type": "commit",
+      "parents": ["C1"],
+      "author": "Peter Cottle",
+      "createTime": "Sun Dec 04 2022 16:42:04 GMT+0100 (Mitteleuropäische Normalzeit)",
+      "commitMessage": "Schneller Commit. Eff-Zeh!",
+      "id": "C2"
+    },
+    "C3'": {
+      "type": "commit",
+      "parents": ["C2"],
+      "author": "Peter Cottle",
+      "createTime": "Sun Dec 04 2022 16:42:08 GMT+0100 (Mitteleuropäische Normalzeit)",
+      "commitMessage": "Schneller Commit. Eff-Zeh!",
+      "id": "C3'"
+    }
+  },
+  "tags": {},
+  "HEAD": {
+    "target": "side",
+    "id": "HEAD",
+    "type": "general ref"
+  },
+  "originTree": {
+    "branches": {
+      "main": {
+        "remoteTrackingBranchID": null,
+        "remote": false,
+        "target": "C3'",
+        "id": "main",
+        "type": "branch"
+      }
+    },
+    "commits": {
+      "C0": {
+        "type": "commit",
+        "parents": [],
+        "author": "Peter Cottle",
+        "createTime": "Sun Dec 04 2022 16:36:50 GMT+0100 (Mitteleuropäische Normalzeit)",
+        "commitMessage": "Schneller Commit. Eff-Zeh!",
+        "id": "C0",
+        "rootCommit": true
+      },
+      "C1": {
+        "type": "commit",
+        "parents": ["C0"],
+        "author": "Peter Cottle",
+        "createTime": "Sun Dec 04 2022 16:36:50 GMT+0100 (Mitteleuropäische Normalzeit)",
+        "commitMessage": "Schneller Commit. Eff-Zeh!",
+        "id": "C1"
+      },
+      "C2": {
+        "type": "commit",
+        "parents": ["C1"],
+        "author": "Peter Cottle",
+        "createTime": "Sun Dec 04 2022 16:36:50 GMT+0100 (Mitteleuropäische Normalzeit)",
+        "commitMessage": "Schneller Commit. Eff-Zeh!",
+        "id": "C2"
+      },
+      "C3'": {
+        "type": "commit",
+        "parents": ["C2"],
+        "author": "Peter Cottle",
+        "createTime": "Sun Dec 04 2022 16:42:12 GMT+0100 (Mitteleuropäische Normalzeit)",
+        "commitMessage": "Schneller Commit. Eff-Zeh!",
+        "id": "C3'"
+      }
+    },
+    "tags": {},
+    "HEAD": {
+      "target": "main",
+      "id": "HEAD",
+      "type": "general ref"
+    }
+  }
+}
