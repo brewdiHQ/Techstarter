@@ -8,3 +8,9 @@ html {
   font-size: 25px;
   box-sizing: border-box;
 }
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: tomato;
+  background-color: burlywood;
+}
