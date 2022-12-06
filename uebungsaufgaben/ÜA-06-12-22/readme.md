@@ -4,6 +4,8 @@
 
 ### :one: Was versteht man unter Objektorientierung?
 
+:white_check_mark::
+
 ---
 
 ### :two: Inwiefern ist der objektorientierte Ansatz in JavaScript ungewöhnlich?
@@ -36,7 +38,7 @@ Definiere ein Objekt “Kochrezept” mit den Eigenschaften Zutaten, Schwierigke
 
 Erstelle mittels objektorientierter Programmierung einen Passwortgenerator. Beachte dabei die gegebenen Anforderungen sowie nachfolgende Grafik
 
-Anforderungen
+:bangbang: Anforderungen :bangbang:
 
 - Beim Klicken auf den “generiere” Button wird ein neues Passwort erstellt
 - Die Länge des Passworts kann über das Frontend vorgegeben werden.
