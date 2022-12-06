@@ -43,6 +43,8 @@ Definiere ein Objekt “Kochrezept” mit den Eigenschaften Zutaten, Schwierigke
 
 ## :white_check_mark:
 
+---
+
 ### :six: Passwortgenerator
 
 Erstelle mittels objektorientierter Programmierung einen Passwortgenerator. Beachte dabei die gegebenen Anforderungen sowie nachfolgende Grafik
