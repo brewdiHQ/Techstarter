@@ -37,9 +37,12 @@ Definiere ein Objekt “Kochrezept” mit den Eigenschaften Zutaten, Schwierigke
 Erstelle mittels objektorientierter Programmierung einen Passwortgenerator. Beachte dabei die gegebenen Anforderungen sowie nachfolgende Grafik
 
 Anforderungen
-Beim Klicken auf den “generiere” Button wird ein neues Passwort erstellt
-Die Länge des Passworts kann über das Frontend vorgegeben werden.
-Bei der Initialisierung beträgt die Passwortlänge 7 Zeichen
-Ein Passwort besteht aus Großbuchstaben, Kleinbuchstaben, Zahlen und Sonderzeichen
-[Herausforderung] Über das Frontend kann festgelegt werden, welche Art von Zeichen das Passwort enthält
-[Herausforderung] Neben dem Ausgabefeld befindet sich ein “Copy” Button, sodass das neu generierte Passwort direkt in die Zwischenablage kopiert wird
+
+- Beim Klicken auf den “generiere” Button wird ein neues Passwort erstellt
+- Die Länge des Passworts kann über das Frontend vorgegeben werden.
+- Bei der Initialisierung beträgt die Passwortlänge 7 Zeichen
+- Ein Passwort besteht aus Großbuchstaben, Kleinbuchstaben, Zahlen und Sonderzeichen
+  :fire:[Herausforderung] Über das Frontend kann festgelegt werden, welche Art von Zeichen das Passwort enthält
+  :fire:[Herausforderung] Neben dem Ausgabefeld befindet sich ein “Copy” Button, sodass das neu generierte Passwort direkt in die Zwischenablage kopiert wird
+
+![Alt text](./img/protoPass.png)
