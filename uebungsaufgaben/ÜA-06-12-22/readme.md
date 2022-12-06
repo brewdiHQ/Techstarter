@@ -2,19 +2,19 @@
 
 ## Manuel Fischer | 06. 12. 2022
 
-### :one: Was versteht man unter Objektorientierung? :one:
+### :one: Was versteht man unter Objektorientierung?
 
 ---
 
-Inwiefern ist der objektorientierte Ansatz in JavaScript ungewöhnlich?
+### :two: Inwiefern ist der objektorientierte Ansatz in JavaScript ungewöhnlich?
 
 ---
 
-Was versteht man unter den grundlegenden Konzepten der Objektorientierung?
+### :three: Was versteht man unter den grundlegenden Konzepten der Objektorientierung?
 
 ---
 
-Beschreibe folgende Begriffe in Stichworten
+### :four: Beschreibe folgende Begriffe in Stichworten
 
 Abstraktion
 Klasse
@@ -26,12 +26,14 @@ Property / Eigenschaft
 
 ---
 
-5 Kochrezept
+### :five: Kochrezept
+
 Definiere ein Objekt “Kochrezept” mit den Eigenschaften Zutaten, Schwierigkeitsgrad, Dauer sowie den Fähigkeiten mischen, zubereiten, anrichten
 
 ---
 
-6 Passwortgenerator
+### :six: Passwortgenerator
+
 Erstelle mittels objektorientierter Programmierung einen Passwortgenerator. Beachte dabei die gegebenen Anforderungen sowie nachfolgende Grafik
 
 Anforderungen
