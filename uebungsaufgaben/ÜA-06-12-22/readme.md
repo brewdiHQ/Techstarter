@@ -4,17 +4,17 @@
 
 ### :one: Was versteht man unter Objektorientierung?
 
-:white_check_mark::
+:white_check_mark:
 
 ---
 
 ### :two: Inwiefern ist der objektorientierte Ansatz in JavaScript ungewöhnlich?
 
----
+## :white_check_mark:
 
 ### :three: Was versteht man unter den grundlegenden Konzepten der Objektorientierung?
 
----
+## :white_check_mark:
 
 ### :four: Beschreibe folgende Begriffe in Stichworten
 
@@ -26,13 +26,18 @@ Polymorphie
 Prototyp
 Property / Eigenschaft
 
+:white_check_mark:
+:white_check_mark:
+:white_check_mark:
+:white_check_mark:
+
 ---
 
 ### :five: Kochrezept
 
 Definiere ein Objekt “Kochrezept” mit den Eigenschaften Zutaten, Schwierigkeitsgrad, Dauer sowie den Fähigkeiten mischen, zubereiten, anrichten
 
----
+## :white_check_mark:
 
 ### :six: Passwortgenerator
 
