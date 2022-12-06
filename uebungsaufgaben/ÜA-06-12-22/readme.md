@@ -41,8 +41,8 @@ Anforderungen
 - Beim Klicken auf den “generiere” Button wird ein neues Passwort erstellt
 - Die Länge des Passworts kann über das Frontend vorgegeben werden.
 - Bei der Initialisierung beträgt die Passwortlänge 7 Zeichen
-- Ein Passwort besteht aus Großbuchstaben, Kleinbuchstaben, Zahlen und Sonderzeichen
-  :fire:[Herausforderung] Über das Frontend kann festgelegt werden, welche Art von Zeichen das Passwort enthält
+- Ein Passwort besteht aus Großbuchstaben, Kleinbuchstaben, Zahlen und Sonderzeichen <br>
+  :fire:[Herausforderung] Über das Frontend kann festgelegt werden, welche Art von Zeichen das Passwort enthält <br>
   :fire:[Herausforderung] Neben dem Ausgabefeld befindet sich ein “Copy” Button, sodass das neu generierte Passwort direkt in die Zwischenablage kopiert wird
 
 ![Alt text](./img/protoPass.png)
