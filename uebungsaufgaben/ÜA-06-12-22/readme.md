@@ -2,7 +2,7 @@
 
 ## Manuel Fischer | 06. 12. 2022
 
-:one: Was versteht man unter Objektorientierung? :one:
+### :one: Was versteht man unter Objektorientierung? :one:
 
 ---
 
