@@ -10,11 +10,15 @@
 
 ### :two: Inwiefern ist der objektorientierte Ansatz in JavaScript ungewöhnlich?
 
-## :white_check_mark:
+:white_check_mark:
+
+---
 
 ### :three: Was versteht man unter den grundlegenden Konzepten der Objektorientierung?
 
-## :white_check_mark:
+:white_check_mark:
+
+---
 
 ### :four: Beschreibe folgende Begriffe in Stichworten
 
@@ -26,10 +30,10 @@ Polymorphie
 Prototyp
 Property / Eigenschaft
 
-:white_check_mark:
-:white_check_mark:
-:white_check_mark:
-:white_check_mark:
+:white_check_mark:<br>
+:white_check_mark:<br>
+:white_check_mark:<br>
+:white_check_mark:<br>
 
 ---
 
