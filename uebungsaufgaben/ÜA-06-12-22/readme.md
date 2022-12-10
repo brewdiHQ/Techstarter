@@ -74,6 +74,8 @@ Definiere ein Objekt “Kochrezept” mit den Eigenschaften Zutaten, Schwierigke
 
 ## :white_check_mark:
 
+siehe Code ./Aufgabe-5
+
 ---
 
 ### :six: Passwortgenerator

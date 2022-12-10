@@ -2,10 +2,14 @@
 // Definiere ein Objekt “Kochrezept” mit den Eigenschaften Zutaten, Schwierigkeitsgrad, Dauer
 // sowie den Fähigkeiten mischen, zubereiten, anrichten;
 
-class recipe {
-    ingredients = "Eggs" "Sugar" "Flour" "Love"
-  level = "heavy";
-    duration_in_min = "45";
-    
-}
+const recipe = {
+  ingredients: ["Eggs", "Sunflower-Oil", "Butter", "peace of Love"],
+  difficulty: "easy going",
+  duration: 45,
 
+  mix: function () {},
+  prepare: function () {},
+  arrange: function () {},
+};
+
+console.log(recipe);
