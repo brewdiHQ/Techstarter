@@ -19,11 +19,11 @@ Es gibt erst seit wenigen Jahren Klassen, vorher gab es nur Objekte. JavaScript 
 ### :three: Was versteht man unter den grundlegenden Konzepten der Objektorientierung?
 
 :white_check_mark: Verkapselung
-Klassen sind voneinander getrennt und in sich so weit wie möglich geschlossen (wie eine Kapsel).
+Klassen sind voneinander getrennt und in sich so weit wie möglich geschlossen (wie eine Kapsel).<br>
 :heavy_exclamation_mark: Abstraktion
-Komplexe Zusammenhänge werden durch Abstraktion simplifiziert. So kann das Interface oder das äußere Konstrukt übersichtlich bleiben.
+Komplexe Zusammenhänge werden durch Abstraktion simplifiziert. So kann das Interface oder das äußere Konstrukt übersichtlich bleiben.<br>
 :heavy_exclamation_mark: Vererbung
-Klassen werden so formuliert, dass ähnliche Komponenten voneinander abstammen oder von einer gemeinsamen Parent-Class erben.
+Klassen werden so formuliert, dass ähnliche Komponenten voneinander abstammen oder von einer gemeinsamen Parent-Class erben.<br>
 :heavy_exclamation_mark: Polymorphismus
 Hängt mit Vererbung zusammen. Das Interface von Objekten soll kompatibel bleiben, so dass Objekte ausgetauscht werden können, ohne die Funktion zu beeinträchtigen.
 
