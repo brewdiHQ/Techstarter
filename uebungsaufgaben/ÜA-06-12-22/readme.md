@@ -31,7 +31,7 @@ Vererbung heißt vereinfacht, dass eine abgeleitete Klasse die Methoden und Obje
 <br>
 <p>
 :heavy_exclamation_mark: Polymorphie<br>
-Verschiedene Objekte können auf die gleiche Nachricht unterschiedlich reagieren. Wird die Zuordnung einer Nachricht zur Reaktion auf die Nachricht erst zur Laufzeit aufgelöst, dann wird dies auch späte Bindung genannt.
+Verschiedene Objekte können auf die gleiche Nachricht unterschiedlich reagieren. Wird die Zuordnung einer Nachricht zur Reaktion auf die Nachricht erst zur Laufzeit aufgelöst, dann wird dies auch späte Bindung genannt. (wiki.byte-welt.net)
 
 ---
 
@@ -45,10 +45,26 @@ Polymorphie
 Prototyp
 Property / Eigenschaft
 
-:white_check_mark:<br>
-:white_check_mark:<br>
-:white_check_mark:<br>
-:white_check_mark:<br>
+:white_check_mark:<br> siehe Aufgabe 3<br>
+
+<p>
+:white_check_mark:<br> Die Klasse repräsentiert einen Bauplan, der als Grundlage der objektorientierten Programmierung oder OOP dient. Sie liefert die Definition dessen, was ein bezeichnetes Objekt innerhalb dieses Programmierstils ausmacht.<br>
+<p>
+:white_check_mark:<br>Methoden stellen in der objektorientierten Programmierung bestimmte Operationen oder Unterprogramme dar, die als Funktionen das Verhalten der Objekte definieren. Die Methoden des Objekts bilden den Rahmen dafür, wie Objekte miteinander in Verbindung treten.<br>
+<p>
+:white_check_mark:<br>Ein Objekt ist nichts anderes als eine in sich geschlossene Komponente, die aus Methoden und Eigenschaften besteht, um Daten nützlich zu machen. Es hilft Ihnen, das Verhalten der Klasse zu bestimmen.<br>
+<p>
+:white_check_mark:<br>Die Vererbung dient in der objektorientierten Programmierung, kurz OOP, unter anderem dazu, eine neue Klasse als Erweiterung bereits existierender Klassen zu entwickeln. Die bestehende Klasse ist als Basis- oder Superklasse bekannt. Die neue, erbende Klasse nennt sich Subklasse.<br>
+<p>
+:white_check_mark:<br>Software Prototyping hilft dabei, aus den ersten Anforderungen ein solides Konzept und schließlich eine fertige, voll funktionsfähige Software zu entwickeln. Dabei gibt es verschiedene Arten des Prototypenbaus.<br>
+- Explorative Prototypen
+- Experimentelle Prototypen
+- Evolutionäre Prototypen
+- Vertikale Prototypen
+- Horizontale Prototypen<br>
+- <p>
+:white_check_mark:<br>Attribute sind in der objektorientierten Programmierung die Eigenschaften, die Objekte innerhalb einer Klasse annehmen können. Es handelt sich um Beschreibungen der Daten. Objekte einer Klasse haben dieselben Attribute, ihre Werte können sich jedoch unterscheiden.<br>
+<p>
 
 ---
 
