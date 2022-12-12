@@ -50,70 +50,39 @@ Prinzipien:
 
 **Anforderungen**
 
-- Der Visitor Guide (VG) ist auf Basis von Open Source
+- Der Visitor Guide (VG) ist auf Basis von Open Source Software entwickelt.
 
-  > Software entwickelt.
+- Für den VG werden möglichst Standard Web-Formate verwendet (HTML, CSS, JavaScript)
 
-- Für den VG werden möglichst Standard Web-Formate verwendet (HTML,
+- Die vertiefenden Informationen zu Ausstellungen, Sammlungen, Objekten sollte einfach aber möglichst umfangreich gehalten sein
 
-  > CSS, JavaScript)
+- Der VG stellt den zentralen Kommunikationskanal des MD21 dar. Daher verfügt er neben vertiefenden Informationen zu den kulturellen Inhalten auch über folgendes: Impressum, Kontakt, AGB
 
-- Die vertiefenden Informationen zu Ausstellungen, Sammlungen,
+- Der VG verfügt über die möglichkeit einzelne Objekte darzustellen, sowie Objekte im Kontext einer Ausstellung oder einer Sammlung
 
-  > Objekten sollte einfach aber möglichst umfangreich gehalten sein
+- Informationen zu Objekten, Ausstellungen, Sammlung können via Barcode abgerufen werden.
 
-- Der VG stellt den zentralen Kommunikationskanal des MD21 dar. Daher
+- Informationen zu Objekten, Ausstellungen und Sammlungen können über eine maximal fünfstellige Ziffernfolge abgerufen werden.
 
-  > verfügt er neben vertiefenden Informationen zu den kulturellen
-  > Inhalten auch über folgendes: Impressum, Kontakt, AGB
+- Informationen zu Objekten, Ausstellungen und Sammlungen können als vollständige Liste (“alles anzeigen”) sowie Liste der Kategorie (alle Objekte anzeigen, alle Ausstellungen anzeigen, alle Sammlungen anzeigen) angezeigt werden.
 
-- Der VG verfügt über die möglichkeit einzelne Objekte darzustellen,
+- Ist ein Objekt Teil einer Sammlung oder Ausstellung ist stets der Wechsel in die beinhaltende Sammlung / Ausstellung möglich
 
-  > sowie Objekte im Kontext einer Ausstellung oder einer Sammlung
-
-- Informationen zu Objekten, Ausstellungen, Sammlung können via
-
-  > Barcode abgerufen werden.
-
-- Informationen zu Objekten, Ausstellungen und Sammlungen können über
-
-  > eine maximal fünfstellige Ziffernfolge abgerufen werden.
-
-- Informationen zu Objekten, Ausstellungen und Sammlungen können als
-
-  > vollständige Liste (“alles anzeigen”) sowie Liste der Kategorie
-  > (alle Objekte anzeigen, alle Ausstellungen anzeigen, alle
-  > Sammlungen anzeigen) angezeigt werden.
-
-- Ist ein Objekt Teil einer Sammlung oder Ausstellung ist stets der
-
-  > Wechsel in die beinhaltende Sammlung / Ausstellung möglich
-
-- Sammlungen können zahlreiche Objekte enthalten und Teil einer
-
-  > Ausstellung sein.
+- Sammlungen können zahlreiche Objekte enthalten und Teil einer Ausstellung sein.
 
 - Sammlungen können nicht in Sammlungen enthalten sein
 
-- Ausstellungen können Sammlungen und Objekte enthalten. Ausstellungen
-
-  > können keine Ausstellungen enthalten und auch nicht Teil einer
-  > Sammlung sein.
+- Ausstellungen können Sammlungen und Objekte enthalten. Ausstellungen können keine Ausstellungen enthalten und auch nicht Teil einer Sammlung sein.
 
 - Informationen zu Objekten beginnen mit einem führenden O z.B: O7D3G
 
-- Informationen zu Ausstellungen beginnen mit einem führenden A, z.B
+- Informationen zu Ausstellungen beginnen mit einem führenden A, z.B A12DF
 
-  > A12DF
-
-- Informationen zu Sammlungen beginnen mit einem führenden S, z.B
-
-  > S78F3
+- Informationen zu Sammlungen beginnen mit einem führenden S, z.B S78F3
 
 - Zulässige Zeichen sind: \[A-Z\], \[0-9\].
 
-- _Optional:_ Ein Angebot in einfacher Sprache (deutsch) sowie in
-  > Englisch ist wünschenswert
+- _Optional:_ Ein Angebot in einfacher Sprache (deutsch) sowie in Englisch ist wünschenswert
 
 **Inhalte**
 
