@@ -1,16 +1,6 @@
-var app = document.getElementById("app");
+var password = document.getElementById("password");
 
-var typewriter = new Typewriter(app, {
-  loop: true,
-});
-
-typewriter
-  .typeString("Hello World!")
-  .pauseFor(2500)
-  .deleteAll()
-  .typeString("Strings can be removed")
-  .pauseFor(2500)
-  .deleteChars(7)
-  .typeString("<strong>altered!</strong>")
-  .pauseFor(2500)
-  .start();
+var chars =
+  "0123456789abcdefghijklmnopqrstuvwxyz!@#$%^&*()ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var passwordLength = 12;
+var password = "";
