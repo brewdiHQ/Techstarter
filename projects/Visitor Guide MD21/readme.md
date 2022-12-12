@@ -1,16 +1,4 @@
 ---
-title: |
-  <span id="_ht7ttied9m0t"
-  class="anchor"></span>![](media/image1.png){width="3.3333333333333335in"
-  height="1.375in"}
-
-  <span id="_vs37k7qha3n" class="anchor"></span>
-
-  <span id="_8les9b3vi098" class="anchor"></span>
-
-  <span id="_g6q0dyoc65eg" class="anchor"></span>Übung 7: Entwicklung
-  eines Visitor Guides für das MD21
----
 
 Manuel Fischer | 11. 12. 2022
 
@@ -30,23 +18,13 @@ vorliegen.
 Für Design und Umsetzung des Visitor Guide gelten folgenden grundlegende
 Prinzipien:
 
-1.  **Mobile First:** Die Umsetzung muss zuallererst auf mobilen
+1.  **Mobile First:** Die Umsetzung muss zuallererst auf mobilen Endgeräten erfolgen und erst nachgelagert über stationäre Computer möglich sein.
 
-    > Endgeräten erfolgen und erst nachgelagert über stationäre Computer
-    > möglich sein.
+2.  **Design for all**: Grundlegende Designs richten sich auch und in besondere Weise an Menschen mit Behinderung, z.B sehbehinderte oder blinde Menschen
 
-2.  **Design for all**: Grundlegende Designs richten sich auch und in
+3.  **Form follows Function**: Die “Funktion” steht im Vordergrund, das optische Erscheinungsbild unterstützt die angestrebte Funktion
 
-    > besondere Weise an Menschen mit Behinderung, z.B sehbehinderte
-    > oder blinde Menschen
-
-3.  **Form follows Function**: Die “Funktion” steht im Vordergrund, das
-
-    > optische Erscheinungsbild unterstützt die angestrebte Funktion
-
-4.  **Customer Centricity**: Ein hoher Nutzen für die BesucherInnen
-    > sowie eine gesteigerte hedonische Qualität sind für den Erfolg des
-    > Visitor Guides von größter Bedeutung
+4.  **Customer Centricity**: Ein hoher Nutzen für die BesucherInnen sowie eine gesteigerte hedonische Qualität sind für den Erfolg des Visitor Guides von größter Bedeutung
 
 **Anforderungen**
 
