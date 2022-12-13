@@ -110,6 +110,8 @@ Beispiel: [https://studiosimpati.co/](https://studiosimpati.co/)
 
 ### Logo
 
+![Alt text](./img/VGMD21_logo.png)
+
 | ![](RackMultipart20221213-1-vnb9bd_html_4629df7f540a6658.png) | ![](RackMultipart20221213-1-vnb9bd_html_fd2cc106b4fdf169.png) | ![](RackMultipart20221213-1-vnb9bd_html_872c89606922df68.png) |
 | ------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
 
