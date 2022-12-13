@@ -1,0 +1,3 @@
+[submodule "Manuel"]
+	path = Manuel
+	url = https://github.com/TechstarterGmbH/01-Grundlagen-HTML-CSS-und-JS.git
