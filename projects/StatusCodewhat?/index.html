@@ -1,0 +1,44 @@
+<html>
+  <head>
+    <title>HTTP Status Code Abfrage</title>
+  </head>
+  <body>
+    <h1>HTTP Status Code Abfrage</h1>
+    <form>
+      <label for="statusCode">Geben Sie einen HTTP-Statuscode ein:</label><br />
+      <input type="text" id="statusCode" name="statusCode" /><br /><br />
+      <button type="button" onclick="fetchStatusCodeDescription()">
+        Abfragen
+      </button>
+    </form>
+    <p id="statusCodeDescription"></p>
+    <script>
+      function fetchStatusCodeDescription() {
+        // Lesen Sie den eingegebenen Statuscode aus dem Formularfeld
+        var statusCode = document.getElementById("statusCode").value;
+
+        // Senden Sie eine GET-Anfrage an die API von iana.org
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+          if (this.readyState == 4 && this.status == 200) {
+            // Parse die Antwort als JSON-Objekt
+            var response = JSON.parse(this.responseText);
+
+            // Lesen Sie die Beschreibung des Statuscodes aus dem JSON-Objekt
+            var statusCodeDescription = response[statusCode].title;
+
+            // Schreiben Sie die Beschreibung in das HTML-Dokument
+            document.getElementById("statusCodeDescription").innerHTML =
+              statusCodeDescription;
+          }
+        };
+        xhttp.open(
+          "GET",
+          "https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml",
+          true
+        );
+        xhttp.send();
+      }
+    </script>
+  </body>
+</html>
