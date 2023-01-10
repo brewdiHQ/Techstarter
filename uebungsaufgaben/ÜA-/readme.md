@@ -2,7 +2,7 @@
 
 ## Manuel Fischer | 09. 01. 2023
 
-### :question: Beantworte folgende Fragen mit deinen Worten:
+# :question: Beantworte folgende Fragen mit deinen Worten:
 
 :one: :arrow_forward: Was ist node.js? <br>
 :two: :arrow_forward: Nenne Beispiele für Plattformen, auf denen node.js ausgeführt werden kann.<br>
