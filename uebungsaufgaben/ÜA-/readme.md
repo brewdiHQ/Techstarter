@@ -37,7 +37,7 @@
 
 # :question: Gegeben sei das Programm “my-simple-server” mit dem Einstiegspunkt “index.js.” Was ist erforderlich, damit durch das Kommando “npm start” das Programm ausgeführt wird?
 
-#:question: Füge dem zuvor angelegten Programm “my-simple-server” das node.js Framework “Express” hinzu. Nutze dafür npm. Wie lautet das Kommando?
+# :question: Füge dem zuvor angelegten Programm “my-simple-server” das node.js Framework “Express” hinzu. Nutze dafür npm. Wie lautet das Kommando?
 
 # :question: Wozu dienen die Dateien “package.json” und ”package-lock.json”?
 
