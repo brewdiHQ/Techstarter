@@ -4,11 +4,11 @@
 
 ### :question: Beantworte folgende Fragen mit deinen Worten:
 
-:question: :one: Was ist node.js? <br>
-:question: :two: Nenne Beispiele für Plattformen, auf denen node.js ausgeführt werden kann.<br>
-:question: :three: Was ist NPM?<br>
-:question: :four: Nennen Beispiele für nützliche “Packages”<br>
-:question: :five: Was ist Express?<br>
+:one: :arrow_forward: Was ist node.js? <br>
+:two: :arrow_forward: Nenne Beispiele für Plattformen, auf denen node.js ausgeführt werden kann.<br>
+:three: :arrow_forward: Was ist NPM?<br>
+:four: :arrow_forward: Nennen Beispiele für nützliche “Packages”<br>
+:five: :arrow_forward: Was ist Express?<br>
 
 # 2 Erstelle Skripte, um folgende Aufgaben zu lösen. Nutze dafür Node.js. Kopiere den Quellcode direkt in deinen Antwortbogen.
 
