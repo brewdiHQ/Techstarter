@@ -2,7 +2,7 @@
 
 ## Manuel Fischer | 09. 01. 2023
 
-# :question: Beantworte folgende Fragen mit deinen Worten:
+## :question: Beantworte folgende Fragen mit deinen Worten:
 
 :one: :arrow_forward: Was ist node.js? <br>
 :white_check_mark: Node.js ist eine quelloffene, plattformübergreifende JavaScript-Laufzeitumgebung, die JavaScript-Code außerhalb eines Webbrowsers ausführen kann. Njs basoert auf der V8 Engine von Google.
@@ -18,7 +18,7 @@
 :five: :arrow_forward: Was ist Express?<br>
 :white_check_mark: Zusammenfassend lässt sich sagen, dass Express.js ein leistungsfähiges Webanwendungs-Framework für Node.js ist, das eine minimale, flexible und leistungsstarke Plattform für die Erstellung von Webanwendungen und RESTful-APIs bietet und es Entwicklern ermöglicht, sich auf die Entwicklung der Logik ihrer Anwendungen zu konzentrieren.
 
-# :question: Erstelle Skripte, um folgende Aufgaben zu lösen. Nutze dafür Node.js. Kopiere den Quellcode direkt in deinen Antwortbogen.
+## :question: Erstelle Skripte, um folgende Aufgaben zu lösen. Nutze dafür Node.js. Kopiere den Quellcode direkt in deinen Antwortbogen.
 
 :arrow_forward: Lies die Datei “beispieldaten.txt” vom Dateisystem ein.
 
@@ -94,7 +94,7 @@ console.log('Server bereit zu reagieren');
 
 ```
 
-# :question: Lege ein leeres Verzeichnis “my-simple-server” an sowie eine leere Datei “index.js” in diesem Verzeichnis. Welcher Befehl ist erforderlich, um ein NPM Projekt zu initialisieren?
+## :question: Lege ein leeres Verzeichnis “my-simple-server” an sowie eine leere Datei “index.js” in diesem Verzeichnis. Welcher Befehl ist erforderlich, um ein NPM Projekt zu initialisieren?
 
 :white_check_mark:
 
@@ -118,7 +118,7 @@ $ npm init
 
 ```
 
-# :question: Gegeben sei das Programm “my-simple-server” mit dem Einstiegspunkt “index.js.” Was ist erforderlich, damit durch das Kommando “npm start” das Programm ausgeführt wird?
+## :question: Gegeben sei das Programm “my-simple-server” mit dem Einstiegspunkt “index.js.” Was ist erforderlich, damit durch das Kommando “npm start” das Programm ausgeführt wird?
 
 :white_check_mark: Eine Veronüpfung in der pakcage.json zu dem Programm das ausgeführt werden soll. Bspw:
 
@@ -132,11 +132,11 @@ $ npm init
 
 ```
 
-# :question: Füge dem zuvor angelegten Programm “my-simple-server” das node.js Framework “Express” hinzu. Nutze dafür npm. Wie lautet das Kommando?
+## :question: Füge dem zuvor angelegten Programm “my-simple-server” das node.js Framework “Express” hinzu. Nutze dafür npm. Wie lautet das Kommando?
 
 :white_check_mark: $ npm install express
 
-# :question: Wozu dienen die Dateien “package.json” und ”package-lock.json”?
+## :question: Wozu dienen die Dateien “package.json” und ”package-lock.json”?
 
 :white_check_mark: In einem Node.js-Projekt sind die Dateien package.json und package-lock.json sehr wichtig. Sie dienen dazu, die Abhängigkeiten eines Projekts zu verwalten und zu dokumentieren.
 
@@ -146,20 +146,16 @@ Wenn man ein neues Projekt mit npm init initialisieren, wird eine package.json-D
 
 package-lock.json hingegen wurde eingeführt um die Konsistenz und Reproduzierbarkeit von Projekten zu gewährleisten. Diese Datei enthält exakte Versionen der installierten Pakete und Abhängigkeiten (inklusive transitive Abhängigkeiten), was sicherstellt, dass das Projekt jederzeit auf die gleiche Art und Weise wiederhergestellt werden kann. Wenn eine Abhängigkeit aktualisiert wird, werden auch die Abhängigkeiten der Abhängigkeiten in der package-lock.json aktualisiert, um die Reproduzierbarkeit sicherzustellen.
 
-# :question: Sofern du dein Projekt nicht weiter konfiguriert hast, welche Wirkung hat der Befehl “npm test”?
+## :question: Sofern du dein Projekt nicht weiter konfiguriert hast, welche Wirkung hat der Befehl “npm test”?
 
 :white_check_mark: Wird der Befehl npm test ausgeführt, sucht npm nach einem Skriptnamen "test" in der package.json-Datei des Projekts und führt den dort definierten Befehl aus.
 
-# :question: Welche HTTP Methoden gibt es?
+## :question: Welche HTTP Methoden gibt es?
 
 :white_check_mark: GET, HEAD, POST, PUT, DELETE, uvm.
 
-# :question: Welche HTTP Methoden können über ein HTML Formular ausgeführt werden?
+## :question: Welche HTTP Methoden können über ein HTML Formular ausgeführt werden?
 
-:white_check_mark: GET und POST. Die Methode GET wird verwendet, wenn das Formular ohne Änderungen an den Daten, die auf dem Server gespeichert sind, abgerufen wird. Die Daten werden als Teil der URL übertragen und können von jedem gelesen werden, der Zugriff auf die URL hat.
+:white_check_mark: GET und POST. Die Methode GET wird verwendet,<br> wenn das Formular ohne Änderungen an den Daten, die auf dem Server gespeichert sind, abgerufen wird. Die Daten werden als<br> Teil der URL übertragen und können von jedem gelesen werden, der Zugriff auf die URL hat.
 
-Die Methode POST wird verwendet, wenn das Formular verwendet wird, um Daten auf dem Server zu erstellen oder zu aktualisieren. Die Daten werden im Request-Body gesendet und sind nicht Teil der URL, was bedeutet, dass sie nicht von jedem gelesen werden können, der Zugriff auf die URL hat.
-
-```
-
-```
+Die Methode POST wird verwendet, wenn das Formular verwendet <br> wird, um Daten auf dem Server zu erstellen oder zu aktualisieren.<br> Die Daten werden im Request-Body gesendet und sind nicht Teil der URL, was bedeutet, dass sie nicht von jedem gelesen <br> werden können, der Zugriff auf die URL hat.
