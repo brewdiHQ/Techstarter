@@ -73,13 +73,13 @@ const data = [
 
 fs.writeFileSync('person.json', JSON.stringify(data, null, 2));
 console.log('Datei erfolgreich erstellt!');
+```
 
 :arrow_forward: Erstelle einen HTTP Server, der auf Anfrage über Port 3456 reagiert
 
 :white_check_mark:
 
 ```
-
 const http = require('http');
 
 const server = http.createServer((req, res) => {
@@ -93,7 +93,6 @@ console.log('Server bereit zu reagieren');
 });
 
 ```
-
 
 # :question: Lege ein leeres Verzeichnis “my-simple-server” an sowie eine leere Datei “index.js” in diesem Verzeichnis. Welcher Befehl ist erforderlich, um ein NPM Projekt zu initialisieren?
 
@@ -119,7 +118,6 @@ $ npm init
 
 ```
 
-
 # :question: Gegeben sei das Programm “my-simple-server” mit dem Einstiegspunkt “index.js.” Was ist erforderlich, damit durch das Kommando “npm start” das Programm ausgeführt wird?
 
 :white_check_mark: Eine Veronüpfung in der pakcage.json zu dem Programm das ausgeführt werden soll. Bspw:
@@ -133,7 +131,6 @@ $ npm init
 }
 
 ```
-
 
 # :question: Füge dem zuvor angelegten Programm “my-simple-server” das node.js Framework “Express” hinzu. Nutze dafür npm. Wie lautet das Kommando?
 
@@ -162,4 +159,7 @@ package-lock.json hingegen wurde eingeführt um die Konsistenz und Reproduzierba
 :white_check_mark: GET und POST. Die Methode GET wird verwendet, wenn das Formular ohne Änderungen an den Daten, die auf dem Server gespeichert sind, abgerufen wird. Die Daten werden als Teil der URL übertragen und können von jedem gelesen werden, der Zugriff auf die URL hat.
 
 Die Methode POST wird verwendet, wenn das Formular verwendet wird, um Daten auf dem Server zu erstellen oder zu aktualisieren. Die Daten werden im Request-Body gesendet und sind nicht Teil der URL, was bedeutet, dass sie nicht von jedem gelesen werden können, der Zugriff auf die URL hat.
+
+```
+
 ```
