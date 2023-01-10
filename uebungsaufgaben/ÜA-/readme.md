@@ -4,8 +4,8 @@
 
 ### :question: Beantworte folgende Fragen mit deinen Worten:
 
-:one: Was ist node.js?
-:two: Nenne Beispiele für Plattformen, auf denen node.js ausgeführt werden kann.
+:question: :one: Was ist node.js? <br>
+:question: :two: Nenne Beispiele für Plattformen, auf denen node.js ausgeführt werden kann.
 :three: Was ist NPM?
 :four: Nennen Beispiele für nützliche “Packages”
 :five: Was ist Express?
